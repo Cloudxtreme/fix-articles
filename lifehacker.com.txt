@@ -9,3 +9,5 @@ test_url: http://lifehacker.com/all-the-financial-advice-youll-ever-need-on-a-4x
 test_url: http://lifehacker.com/make-delicious-biscuits-with-just-two-ingredients-1547820645
 test_url: http://lifehacker.com/5903288/i-learned-to-speak-four-languages-in-a-few-years-heres-how
 test_url: http://lifehacker.com/the-best-self-hosted-alternatives-to-popular-services-1579866571
+test_url: http://lifehacker.com/conduct-a-postmortem-on-budget-failures-1518458845
+test_url: http://lifehacker.com/5826509/how-to-build-a-computer-from-scratch-lesson-1-hardware-basics
